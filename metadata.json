@@ -1,0 +1,8 @@
+{
+  "name": "CONSIST",
+  "description": "An intelligent, AI-powered productivity coach designed to help you build habits, manage tasks, and master daily consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
